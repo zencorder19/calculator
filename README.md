@@ -1,2 +1,2 @@
 # calculator
-Simple calculator in Python using Jupyter.
+I make simple calculator using python programming language.
